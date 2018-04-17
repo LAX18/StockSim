@@ -1,2 +1,2 @@
 # StockSim
-SmileBASIC game based on the Stock Market
+TI84+CE game based on the Stock Market
