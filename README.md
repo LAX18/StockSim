@@ -9,6 +9,10 @@ Screen1.png                                   Picture
 Screen2.png                                   Picture  
 License.md                                    License
   
+### Screenshots:
+![PIC1](Screen1.png)![PIC2](Screen2.png)  
+
+### About
 Thank you for downloading StockSim version 1.0 (Public Release)!!!  
 This program was programmed in ICE, a revolutionary programming language created  
 and developed by PT_ (or P_T on IRC). Although primarily programed by LAX18, special thanks to  
@@ -19,7 +23,6 @@ The source WILL NOT be provided in this download, however this can be found and 
 GitHub repo (https://github.com/LAX18/StockSim). The source is open, but is protected under MIT  
 license.   
   
-### About  
 StockSim is a game originally coded on the Nintendo 3DS via SmileBASIC for CC21. After getting  
 various requests (and wanting to do this myself), I ported this to ICE for the TI84+CE. StockSim itself is  
 a simulation game based on the american stock market. Players can buy and sell stocks, while monitioring several  
