@@ -7,6 +7,7 @@ STOCKSIM.8xp                                  Game File
 README.md                                     README  
 Screen1.png                                   Picture  
 Screen2.png                                   Picture  
+License.md                                    License
   
 Thank you for downloading StockSim version 1.0 (Public Release)!!!  
 This program was programmed in ICE, a revolutionary programming language created  
