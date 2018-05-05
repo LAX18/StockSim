@@ -2,7 +2,7 @@
 ## Nicholas Pease  
 ## (LAX18)  
   
-Contents:  
+### Contents:  
 STOCKSIM.8xp                                  Game File  
 README.md                                     README  
 Screen1.png                                   Picture  
