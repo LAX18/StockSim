@@ -3,10 +3,10 @@ Nicholas Pease
 (LAX18)  
 -----------------------------------  
 Contents:  
-STOCKSIM.8xp    Game File  
-README.txt      README  
-Screen1.png     Picture  
-Screen2.png     Picture  
+STOCKSIM.8xp                                  Game File  
+README.md                                     README  
+Screen1.png                                   Picture  
+Screen2.png                                   Picture  
 -----------------------------------  
 Thank you for downloading StockSim version 1.0 (Public Release)!!!  
 This program was programmed in ICE, a revolutionary programming language created  
