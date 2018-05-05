@@ -59,10 +59,10 @@ Controls
 [Clear] - Cancel (Exit on Stock Viewing Screens)  
   
 Future Plans:
-[ ] Add Graph Viewing function
-[ ] Add Previous Purchases with change since purchase
-[ ] TV Channel Ticker (Possibly)
-[ ] CryptoCurrency versoin of StockSim
-[ ] Multi-Save support
-[ ] Remove 100 stock buy limit
+- Add Graph Viewing function
+- Add Previous Purchases with change since purchase
+- TV Channel Ticker (Possibly)
+- CryptoCurrency versoin of StockSim
+- Multi-Save support
+- Remove 100 stock buy limit
   
