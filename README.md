@@ -25,7 +25,7 @@ license.
   
 StockSim is a game originally coded on the Nintendo 3DS via SmileBASIC for CC21. After getting  
 various requests (and wanting to do this myself), I ported this to ICE for the TI84+CE. StockSim itself is  
-a simulation game based on the american stock market. Players can buy and sell stocks, while monitioring several  
+a simulation game based on the American stock market. Players can buy and sell stocks, while monitoring  several  
 charts. Players have to determine the best times to sell, whilst monitoring best times to buy other stocks. Players  
 can select from EASY and HARD modes and can save/continue their games.  
    
