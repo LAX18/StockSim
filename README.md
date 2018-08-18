@@ -39,34 +39,34 @@ can select from EASY and HARD modes and can save/continue their games.
 ### To run the program:  
   
 #### OS 5.2 and below:  
-(1) Press [2nd][0] and scroll down to "Asm("  
-(2) Press [Enter] and press [PRGM]  
-(3) Press [ALPHA][ln] and scroll down to "*STOCKSIM" (may be without asterisk)  
-(4) Press [Enter][Enter]  
+(1) Press <kbd>[2nd]</kbd><kbd>[0]</kbd> and scroll down to "Asm("  
+(2) Press <kbd>[Enter]</kbd> and press <kbd>[PRGM]
+(3) Press <kbd>[ALPHA]</kbd><kbd>[ln]</kbd> and scroll down to "*STOCKSIM" (may be without asterisk)  
+(4) Press <kbd>[Enter]</kbd><kbd>[Enter]</kbd>
   
 #### OS 5.3 and above:  
-(1) Press [PRGM][ALPHA][ln] and scroll down to "*STOCKSIM" (may be without asterisk)  
-(2) Press [Enter][Enter]  
+(1) Press <kbd>[PRGM]</kbd><kbd>[ALPHA]</kbd><kbd>[ln]</kbd> and scroll down to "*STOCKSIM" (may be without asterisk)  
+(2) Press <kbd>[Enter]</kbd><kbd>[Enter] </kbd> 
   
 ### How to play  
 You buy and sell stocks to make a profit  
   
 ### Controls  
-[Up] / [Down] - Moves Up and Down (Buy and Sell Screens)  
-[Left] / [Right] - Switched Screens (Content Displayed Changes)  
-[Y=] - Buy Stocks  
-[Window] - Sells Stock  
-[Zoom] - Save  
-[Trace] - Exit Without Saving (Goes to Menu)  
-[Window] = Next Month  
-[Enter] / [2nd] - Select (Buy, Sell, and Menu screens)  
-[Clear] - Cancel (Exit on Stock Viewing Screens)  
+<kbd>[Up]</kbd> / <kbd>[Down]</kbd> - Moves Up and Down (Buy and Sell Screens)  
+<kbd>[Left]</kbd> / <kbd>[Right]</kbd> - Switched Screens (Content Displayed Changes)  
+<kbd>[Y=]</kbd> - Buy Stocks  
+<kbd>[Window]</kbd> - Sells Stock  
+<kbd>[Zoom]</kbd> - Save  
+<kbd>[Trace]</kbd> - Exit Without Saving (Goes to Menu)  
+<kbd>[Window]</kbd> = Next Month  
+<kbd>[Enter]</kbd> / <kbd>[2nd]</kbd> - Select (Buy, Sell, and Menu screens)  
+<kbd>[Clear]</kbd> - Cancel (Exit on Stock Viewing Screens)  
   
 ### Future Plans:
 - Add Graph Viewing function
 - Add Previous Purchases with change since purchase
 - TV Channel Ticker (Possibly)
-- CryptoCurrency versoin of StockSim
+- CryptoCurrency version of StockSim
 - Multi-Save support
 - Remove 100 stock buy limit
   
