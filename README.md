@@ -40,7 +40,7 @@ can select from EASY and HARD modes and can save/continue their games.
   
 #### OS 5.2 and below:  
 (1) Press <kbd>[2nd]</kbd><kbd>[0]</kbd> and scroll down to "Asm("  
-(2) Press <kbd>[Enter]</kbd> and press <kbd>[PRGM]
+(2) Press <kbd>[Enter]</kbd> and press <kbd>[PRGM]</kbd>  
 (3) Press <kbd>[ALPHA]</kbd><kbd>[ln]</kbd> and scroll down to "*STOCKSIM" (may be without asterisk)  
 (4) Press <kbd>[Enter]</kbd><kbd>[Enter]</kbd>
   
